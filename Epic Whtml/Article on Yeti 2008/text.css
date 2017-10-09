@@ -1,0 +1,125 @@
+div#yeti_textblock {
+	width:1010px;
+	/* text-width:520px; */
+}
+
+div#yeti_textblock h1 {
+	margin:0;padding:0;
+	margin-left:168px;
+	font-size:2em;
+}
+
+div#yeti_textblock div.content {
+	margin-left:180px;
+	margin-right:310px;
+}
+
+div#yeti_textblock div.right {
+	position:absolute;
+	left:740px;
+}
+
+/* ====================================================================================== */
+
+div#yeti_textdesign {
+	font-family:'Lucida Sans Unicode', 'Trebuchet MS', 'Lucida Grande', 'Microsoft Sans Serif', helvetica, sans-serif;
+	line-height:1.5em;
+}
+
+div#yeti_textdesign i {font-family:'Trebuchet MS', georgia, 'arial narrow', serif; }
+
+div#yeti_textdesign h1 {
+	font-weight:normal;
+	font-family:georgia, 'Lucida Sans Unicode', 'Lucida Grande', 'Microsoft Sans Serif', helvetica, sans-serif;
+	line-height:1.2em;
+}
+
+div#yeti_textdesign .intro {
+	font-family:georgia, serif;
+	font-style:italic;
+	font-size:1.1em;
+}
+
+div#yeti_textdesign h2,
+div#yeti_textdesign h3 {
+	font-family:georgia, 'Lucida Sans Unicode', 'Trebuchet MS', 'Lucida Grande', 'Microsoft Sans Serif', helvetica, sans-serif;
+	font-weight:normal;
+	line-height:1.2em;
+	margin-top:1em;
+	margin-bottom:.4em;
+}
+div#yeti_textdesign h2 {font-size:1.72em;}
+div#yeti_textdesign h3 {font-size:1.4em;}
+div#yeti_textdesign h4 {
+	font-size:1em;
+	font-weight:bold;
+	line-height:1.2em;
+	margin-top:0em;
+	margin-bottom:.1em;
+}
+
+div#yeti_textdesign h5 {
+	font-size:1em;
+	font-weight:normal;
+	color:#999;
+	line-height:1.2em;
+	margin-top:.2em;
+	margin-bottom:1em;
+}
+
+div#yeti_textdesign ul,div#yeti_textdesign ol {margin-top:0;}
+
+div#yeti_textdesign p {margin-top:0;margin-bottom:1em;}
+
+/* SPECIAL */
+
+div#yeti_textdesign .smalltext {
+	font-size:.8em;
+	line-height:1.2em;
+}
+
+div#yeti_textdesign .eof {
+	padding:0 4px 0 8px;
+	background:url('i/eof.gif') 50% 50% no-repeat;
+	cursor:hand;
+}
+
+
+/* IMAGES */
+
+div#yeti_textdesign .img {
+	display:block;
+	float:left;
+	margin:0;
+	padding:3px;
+	border:#CCC 1px solid;
+	background:#EEE;
+	
+	font-size:.8em;
+	line-height:1.2em;
+}
+div#yeti_textdesign .imgend { clear:left; }
+
+div#yeti_textdesign div.right .img {
+	float:left;
+	font-size:1em;
+}
+
+
+/* RIGHT BLOCK */
+
+div#yeti_textdesign div.right {
+	font-size:.8em;
+	line-height:1.2em;
+}
+div#yeti_textdesign div.r_text {	
+	width:280px;
+}
+div#yeti_textdesign div.r_note {
+	padding: 2px 0 2px 12px;
+	border-left:1px #CCC solid;
+	width:268px;
+}
+
+div#yeti_textdesign small,
+div#yeti_textdesign .txtsmall {line-height:1.2em;}

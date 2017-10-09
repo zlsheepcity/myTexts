@@ -1,0 +1,82 @@
+u {
+	text-decoration:none;
+	color:#066;
+	font-family:monospace;
+	font-size:1.2em;
+	white-space:nowrap;
+	font-weight:bold;
+	font-style:normal;
+	vertical-align:text-top;
+}
+u.fixsize {font-size:15px;vertical-align:middle;}
+
+big {font-size:1.5em;}
+center {margin:0 auto;padding:0;}
+
+
+a.anchor {color:#000;}
+
+div.cd {
+	background:#FE9;
+	padding:2px;
+	display:inline;
+}
+div.block {
+	display:block;
+	padding:4px;
+	border:#CCC 2px dashed;
+	margin:0 0;
+}
+div.block_desc {padding:5px;margin:0 0;}
+
+h2.p {background:#FC0;padding:2px 4px;margin-left:-4px;margin-right:-4px;}
+h2.p span {position:absolute;display:block;margin-left:-2em;text-align:right;}
+
+blockquote.pinky {width:640px;background:#F99 url('pinkse.gif') 100% 100% no-repeat;margin:0 0 2em -20px;}
+blockquote.pinky div.decor {background:url('pinksw.gif') 0 100% no-repeat;}
+blockquote.pinky div.decor div.decor {background:url('pinkne.gif') 100% 0 no-repeat;}
+blockquote.pinky div.decor div.decor div.decor {background:url('pinknw.gif') 0 0 no-repeat;}
+blockquote.pinky div.padding {padding:20px;}
+blockquote.pinky u {color:#066;}
+blockquote.pinky div.cd {padding:0 2px;background:#FCC;}
+blockquote.pinky div.block {margin:0;border-color:#F99;padding:8px;}
+
+span.brinums2 b {font-weight:normal;}
+
+blockquote.offtop {margin:1em -3em 2em 3em;padding:12px 4px 4px 12px;border-left:1px solid #CCC;border-top:1px solid #CCC;}
+blockquote.special {font-style:italic;font-family:georgia,serif;}
+blockquote.special i {font-variant:small-caps;}
+
+.starme {color:#F00;}
+
+.sh {
+	font-family:serif ! important;
+	font-weight:bold ! important;
+	color:#000 ! important;
+	text-align:left ! important;
+	padding:0 ! important;
+	margin:12px 0 ! important;
+}
+h1.sh {font-size:35px ! important;}
+h2.sh {font-size:27px ! important;}
+h3.sh {font-size:21px ! important;}
+h4.sh {font-size:17px ! important;}
+h5.sh {font-size:14px ! important;}
+h6.sh {font-size:11px ! important;}
+
+blockquote.sq {
+	color:#000 ! important;
+	padding:0 ! important;
+	margin:1em 2em ! important;
+	border:0 ! important;
+}
+
+p.sp {
+	padding:0 ! important;
+	margin:1em 0 ! important;
+	color:#000 ! important;
+}
+
+div.scrolltop {font-size:2em;text-align:center;color:#CCC;font-family:serif;}
+div.scrolltop a {text-decoration:none;}
+	
